@@ -1,0 +1,6 @@
+{
+  "FlowName": "OrderConfirmationFlow",
+  "Trigger": "Record-Triggered (Order Insert)",
+  "Action": "Send Email to Customer",
+  "Status": "Active"
+}
